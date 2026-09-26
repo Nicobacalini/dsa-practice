@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nicobacalini/dsa-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nicobacalini/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0605-can-place-flowers](https://github.com/Nicobacalini/dsa-practice/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nicobacalini/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Trie
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nicobacalini/dsa-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Nicobacalini/dsa-practice/tree/master/0013-roman-to-integer) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Nicobacalini/dsa-practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
